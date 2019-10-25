@@ -1,15 +1,14 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.10.25)  25 OCT 2019 21:31
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.3)  25 OCT 2019 23:35
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Daniele/Desktop/AaaaBbbb/main
-(c:/Users/Daniele/Desktop/AaaaBbbb/main.tex
-LaTeX2e <2019-10-01> patch level 1
-(./head.tex (c:/texlive/2019/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2019/08/27 v1.4j Standard LaTeX document class
-(c:/texlive/2019/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+**main.tex
+(./main.tex
+LaTeX2e <2018-12-01>
+(./head.tex (/home/fouche/texlive/2019/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -23,38 +22,42 @@ File: bk10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2019/04/01 v2.17c AMS math features
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
-)) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+))
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
-) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count89
-LaTeX Info: Redefining \frac on input line 227.
+LaTeX Info: Redefining \frac on input line 223.
 \uproot@=\count90
 \leftroot@=\count91
-LaTeX Info: Redefining \overline on input line 389.
+LaTeX Info: Redefining \overline on input line 385.
 \classnum@=\count92
 \DOTSCASE@=\count93
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \macc@depth=\count94
 \c@MaxMatrixCols=\count95
 \dotsspace@=\muskip10
@@ -75,9 +78,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2855.
-LaTeX Info: Redefining \] on input line 2856.
-) (c:/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks19
 \thm@bodyfont=\toks20
@@ -88,35 +92,47 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@postskip=\skip47
 \thm@headsep=\skip48
 \dth@everypar=\toks24
-) (c:/texlive/2019/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 Package: dirtytalk 2010/11/21 A package making "quoting" easier
- (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
-) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)))) (c:/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+))))
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@dirtytalk@qdepth=\count101
-) (c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
- (c:/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -127,24 +143,37 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (c:/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math.sty (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-10-24 L3 programming layer (loader) 
- (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2019-10-24 L3 programming layer (code)
-\c_max_int=\count102
-\l_tmpa_int=\count103
-\l_tmpb_int=\count104
-\g_tmpa_int=\count105
-\g_tmpb_int=\count106
-\l__seq_internal_a_int=\count107
-\l__seq_internal_b_int=\count108
-\g__kernel_prg_map_int=\count109
-\c__ior_term_noprompt_ior=\count110
-\c_log_iow=\count111
-\l_iow_line_count_int=\count112
-\l__iow_line_target_int=\count113
-\l__iow_one_indent_int=\count114
-\l__iow_indent_int=\count115
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
+r XeLaTeX)
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count102
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-07-25 L3 programming layer (loader) 
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-07-25 L3 programming layer (code)
+\c_max_int=\count103
+\l_tmpa_int=\count104
+\l_tmpb_int=\count105
+\g_tmpa_int=\count106
+\g_tmpb_int=\count107
+\g__kernel_prg_map_int=\count108
+\c__ior_term_ior=\count109
+\c_log_iow=\count110
+\l_iow_line_count_int=\count111
+\l__iow_line_target_int=\count112
+\l__iow_one_indent_int=\count113
+\l__iow_indent_int=\count114
 \c_zero_dim=\dimen112
 \c_max_dim=\dimen113
 \l_tmpa_dim=\dimen114
@@ -163,76 +192,76 @@ Package: expl3 2019-10-24 L3 programming layer (code)
 \l_tmpb_muskip=\muskip14
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count116
-\l__intarray_loop_int=\count117
+\l_keys_choice_int=\count115
+\l__intarray_loop_int=\count116
 \c__intarray_sp_dim=\dimen118
-\g__intarray_font_int=\count118
-\c__fp_leading_shift_int=\count119
-\c__fp_middle_shift_int=\count120
-\c__fp_trailing_shift_int=\count121
-\c__fp_big_leading_shift_int=\count122
-\c__fp_big_middle_shift_int=\count123
-\c__fp_big_trailing_shift_int=\count124
-\c__fp_Bigg_leading_shift_int=\count125
-\c__fp_Bigg_middle_shift_int=\count126
-\c__fp_Bigg_trailing_shift_int=\count127
-\g__fp_array_int=\count128
-\l__fp_array_loop_int=\count129
-\l__sort_length_int=\count130
-\l__sort_min_int=\count131
-\l__sort_top_int=\count132
-\l__sort_max_int=\count133
-\l__sort_true_max_int=\count134
-\l__sort_block_int=\count135
-\l__sort_begin_int=\count136
-\l__sort_end_int=\count137
-\l__sort_A_int=\count138
-\l__sort_B_int=\count139
-\l__sort_C_int=\count140
-\l__str_internal_int=\count141
-\l__tl_analysis_normal_int=\count142
-\l__tl_analysis_index_int=\count143
-\l__tl_analysis_nesting_int=\count144
-\l__tl_analysis_type_int=\count145
-\l__regex_internal_a_int=\count146
-\l__regex_internal_b_int=\count147
-\l__regex_internal_c_int=\count148
-\l__regex_balance_int=\count149
-\l__regex_group_level_int=\count150
-\l__regex_mode_int=\count151
-\c__regex_cs_in_class_mode_int=\count152
-\c__regex_cs_mode_int=\count153
-\l__regex_catcodes_int=\count154
-\l__regex_default_catcodes_int=\count155
-\c__regex_catcode_L_int=\count156
-\c__regex_catcode_O_int=\count157
-\c__regex_catcode_A_int=\count158
-\c__regex_all_catcodes_int=\count159
-\l__regex_show_lines_int=\count160
-\l__regex_min_state_int=\count161
-\l__regex_max_state_int=\count162
-\l__regex_left_state_int=\count163
-\l__regex_right_state_int=\count164
-\l__regex_capturing_group_int=\count165
-\l__regex_min_pos_int=\count166
-\l__regex_max_pos_int=\count167
-\l__regex_curr_pos_int=\count168
-\l__regex_start_pos_int=\count169
-\l__regex_success_pos_int=\count170
-\l__regex_curr_char_int=\count171
-\l__regex_curr_catcode_int=\count172
-\l__regex_last_char_int=\count173
-\l__regex_case_changed_char_int=\count174
-\l__regex_curr_state_int=\count175
-\l__regex_step_int=\count176
-\l__regex_min_active_int=\count177
-\l__regex_max_active_int=\count178
-\l__regex_replacement_csnames_int=\count179
-\l__regex_match_count_int=\count180
-\l__regex_min_submatch_int=\count181
-\l__regex_submatch_int=\count182
-\l__regex_zeroth_submatch_int=\count183
-\g__regex_trace_regex_int=\count184
+\g__intarray_font_int=\count117
+\c__fp_leading_shift_int=\count118
+\c__fp_middle_shift_int=\count119
+\c__fp_trailing_shift_int=\count120
+\c__fp_big_leading_shift_int=\count121
+\c__fp_big_middle_shift_int=\count122
+\c__fp_big_trailing_shift_int=\count123
+\c__fp_Bigg_leading_shift_int=\count124
+\c__fp_Bigg_middle_shift_int=\count125
+\c__fp_Bigg_trailing_shift_int=\count126
+\g__fp_array_int=\count127
+\l__fp_array_loop_int=\count128
+\l__sort_length_int=\count129
+\l__sort_min_int=\count130
+\l__sort_top_int=\count131
+\l__sort_max_int=\count132
+\l__sort_true_max_int=\count133
+\l__sort_block_int=\count134
+\l__sort_begin_int=\count135
+\l__sort_end_int=\count136
+\l__sort_A_int=\count137
+\l__sort_B_int=\count138
+\l__sort_C_int=\count139
+\l__str_internal_int=\count140
+\l__tl_analysis_normal_int=\count141
+\l__tl_analysis_index_int=\count142
+\l__tl_analysis_nesting_int=\count143
+\l__tl_analysis_type_int=\count144
+\l__regex_internal_a_int=\count145
+\l__regex_internal_b_int=\count146
+\l__regex_internal_c_int=\count147
+\l__regex_balance_int=\count148
+\l__regex_group_level_int=\count149
+\l__regex_mode_int=\count150
+\c__regex_cs_in_class_mode_int=\count151
+\c__regex_cs_mode_int=\count152
+\l__regex_catcodes_int=\count153
+\l__regex_default_catcodes_int=\count154
+\c__regex_catcode_L_int=\count155
+\c__regex_catcode_O_int=\count156
+\c__regex_catcode_A_int=\count157
+\c__regex_all_catcodes_int=\count158
+\l__regex_show_lines_int=\count159
+\l__regex_min_state_int=\count160
+\l__regex_max_state_int=\count161
+\l__regex_left_state_int=\count162
+\l__regex_right_state_int=\count163
+\l__regex_capturing_group_int=\count164
+\l__regex_min_pos_int=\count165
+\l__regex_max_pos_int=\count166
+\l__regex_curr_pos_int=\count167
+\l__regex_start_pos_int=\count168
+\l__regex_success_pos_int=\count169
+\l__regex_curr_char_int=\count170
+\l__regex_curr_catcode_int=\count171
+\l__regex_last_char_int=\count172
+\l__regex_case_changed_char_int=\count173
+\l__regex_curr_state_int=\count174
+\l__regex_step_int=\count175
+\l__regex_min_active_int=\count176
+\l__regex_max_active_int=\count177
+\l__regex_replacement_csnames_int=\count178
+\l__regex_match_count_int=\count179
+\l__regex_min_submatch_int=\count180
+\l__regex_submatch_int=\count181
+\l__regex_zeroth_submatch_int=\count182
+\g__regex_trace_regex_int=\count183
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -276,594 +305,128 @@ Package: expl3 2019-10-24 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen141
 \l__coffin_display_x_dim=\dimen142
 \l__coffin_display_y_dim=\dimen143
-\g__char_data_ior=\read1
- (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
-File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
-)) (c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-File: l3backend-xdvipdfmx.def 2019-04-06 L3 backend support: xdvipdfmx
-\g__graphics_track_int=\count185
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count184
+\l__seq_internal_b_int=\count185
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.d
+ef
+File: l3backend-xdvipdfmx.def 2019-04-06 v L3 Experimental backend support: xdv
+ipdfmx
+\g__graphics_track_int=\count186
 \l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count186
-\g__pdf_backend_annotation_int=\count187
+\g__pdf_backend_object_int=\count187
+\g__pdf_backend_annotation_int=\count188
 ))
-Package: unicode-math 2019/09/26 v0.8p Unicode maths in XeLaTeX and LuaLaTeX
- (c:/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
-Package: unicode-math-xetex 2019/09/26 v0.8p Unicode maths in XeLaTeX and LuaLaTeX
- (c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2019-10-11 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count188
-\g__xparse_grabber_int=\count189
-\l__xparse_m_args_int=\count190
-\l__xparse_v_nesting_int=\count191
-) (c:/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
-) (c:/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTeX
- (c:/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count192
-\l__fontspec_language_int=\count193
-\l__fontspec_strnum_int=\count194
-\l__fontspec_tmp_int=\count195
-\l__fontspec_tmpa_int=\count196
-\l__fontspec_tmpb_int=\count197
-\l__fontspec_tmpc_int=\count198
-\l__fontspec_em_int=\count199
-\l__fontspec_emdef_int=\count266
-\l__fontspec_strong_int=\count267
-\l__fontspec_strongdef_int=\count268
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count189
+\g__xparse_grabber_int=\count190
+\l__xparse_m_args_int=\count191
+\l__xparse_v_nesting_int=\count192
+)
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count193
+\l__fontspec_language_int=\count194
+\l__fontspec_strnum_int=\count195
+\l__fontspec_tmp_int=\count196
+\l__fontspec_tmpa_int=\count197
+\l__fontspec_tmpb_int=\count198
+\l__fontspec_tmpc_int=\count199
+\l__fontspec_em_int=\count266
+\l__fontspec_emdef_int=\count267
+\l__fontspec_strong_int=\count268
+\l__fontspec_strongdef_int=\count269
 \l__fontspec_tmpa_dim=\dimen144
 \l__fontspec_tmpb_dim=\dimen145
 \l__fontspec_tmpc_dim=\dimen146
- (c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- (c:/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-)) (c:/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 4047.
-LaTeX Info: Redefining \slshape on input line 4052.
-LaTeX Info: Redefining \scshape on input line 4057.
-LaTeX Info: Redefining \upshape on input line 4062.
-LaTeX Info: Redefining \em on input line 4092.
-LaTeX Info: Redefining \emph on input line 4117.
-)) (c:/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
+))
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4051.
+LaTeX Info: Redefining \slshape on input line 4056.
+LaTeX Info: Redefining \scshape on input line 4061.
+LaTeX Info: Redefining \upshape on input line 4066.
+LaTeX Info: Redefining \em on input line 4096.
+LaTeX Info: Redefining \emph on input line 4121.
+))
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/home/fouche/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count270
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@eu@=\count271
+\c@eu@i=\count272
+\c@mkern=\count273
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2019/03/04 v0.8o Unicode maths in XeLaTeX and LuaLaTeX
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math-xetex
+.sty
+Package: unicode-math-xetex 2019/03/04 v0.8o Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.st
+y
+Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
+) (/home/fouche/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
- (c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+
+(/home/fouche/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-\g__um_fam_int=\count269
-\g__um_fonts_used_int=\count270
-\l__um_primecount_int=\count271
+\g__um_fam_int=\count274
+\g__um_fonts_used_int=\count275
+\l__um_primecount_int=\count276
 \g__um_primekern_muskip=\muskip17
- (c:/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (c:/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip55
-\f@nch@O@elh=\skip56
-\f@nch@O@erh=\skip57
-\f@nch@O@olh=\skip58
-\f@nch@O@orh=\skip59
-\f@nch@O@elf=\skip60
-\f@nch@O@erf=\skip61
-\f@nch@O@olf=\skip62
-\f@nch@O@orf=\skip63
-) (c:/texlive/2019/texmf-dist/tex/latex/fncychap/fncychap.sty
-Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
-\RW=\skip64
-\mylen=\skip65
-\myhi=\skip66
-\px=\skip67
-\py=\skip68
-\pyy=\skip69
-\pxx=\skip70
-) (c:/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box48
-\beforetitleunit=\skip71
-\aftertitleunit=\skip72
-\ttl@plus=\dimen147
-\ttl@minus=\dimen148
-\ttl@toksa=\toks26
-\titlewidth=\dimen149
-\titlewidthlast=\dimen150
-\titlewidthfirst=\dimen151
-) (c:/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
- (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
- (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (c:/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen152
-\Hy@linkcounter=\count272
-\Hy@pagecounter=\count273
- (c:/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
-)
-\Hy@SavedSpaceFactor=\count274
- (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4540.
-Package hyperref Info: Link nesting OFF on input line 4545.
-Package hyperref Info: Hyper index ON on input line 4548.
-Package hyperref Info: Plain pages OFF on input line 4555.
-Package hyperref Info: Backreferencing OFF on input line 4560.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4793.
-\c@Hy@tempcnt=\count275
- (c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip18
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5152.
-\XeTeXLinkMargin=\dimen153
-\Fld@menulength=\count276
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6423.
-Package hyperref Info: Link nesting OFF on input line 6428.
-Package hyperref Info: Hyper index ON on input line 6431.
-Package hyperref Info: backreferencing OFF on input line 6438.
-Package hyperref Info: Link coloring OFF on input line 6443.
-Package hyperref Info: Link coloring with OCG OFF on input line 6448.
-Package hyperref Info: PDF/A mode OFF on input line 6453.
-LaTeX Info: Redefining \ref on input line 6493.
-LaTeX Info: Redefining \pageref on input line 6497.
-\Hy@abspage=\count277
-\c@Item=\count278
-\c@Hfootnote=\count279
-)
-Package hyperref Info: Driver (autodetected): hxetex.
- (c:/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2019/09/28 v7.00a Hyperref driver for XeTeX
- (c:/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2019/09/28 v7.00a Hyperref: PDF Unicode definition (HO)
-) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
-Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
-)
-\pdfm@box=\box49
-\c@Hy@AnnotLevel=\count280
-\HyField@AnnotCount=\count281
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
- (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
-)
-\Hy@SectionHShift=\skip73
-) (c:/texlive/2019/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
- (c:/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-\c@blindtext=\count284
-\c@Blindtext=\count285
-\c@blind@countparstart=\count286
-\blind@countxx=\count287
-\blindtext@numBlindtext=\count288
-\blind@countyy=\count289
-\c@blindlist=\count290
-\c@blindlistlevel=\count291
-\c@blindlist@level=\count292
-\blind@listitem=\count293
-\c@blind@listcount=\count294
-\c@blind@levelcount=\count295
-\blind@mathformula=\count296
-\blind@Mathformula=\count297
-\c@blind@randomcount=\count298
-\c@blind@randommax=\count299
-\c@blind@pangramcount=\count300
-\c@blind@pangrammax=\count301
-)
 
-./head.tex:16: LaTeX Error: Option clash for package fontspec.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
+! LaTeX3 Error: Command '\setmathfont' already defined!
+
+For immediate help type H <return>.
  ...                                              
                                                   
-l.16 
-     
-The package fontspec has already been loaded with options:
-  []
-There has now been an attempt to load it with options
-  [no-math]
-Adding the global options:
-  ,no-math
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
+l.314   }
+         
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.314   }
+         
+
+You have used \NewDocumentCommand with a command that already has a
+definition.
+
+The existing definition of '\setmathfont' will not be altered.
 
 
-Package fontspec Info: Font family 'EBGaramond(0)' created for font 'EB
-(fontspec)             Garamond' with options [Ligatures=TeX,BoldFont={EB
-(fontspec)             Garamond SemiBold},ItalicFont={EB Garamond
-(fontspec)             Italic},BoldItalicFont={EB Garamond SemiBold Italic}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"EB
-(fontspec)             Garamond/OT:script=latn;language=DFLT;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"EB
-(fontspec)             Garamond/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"EB Garamond
-(fontspec)             SemiBold/OT:script=latn;language=DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: <->"EB
-(fontspec)             Garamond
-(fontspec)             SemiBold/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"EB Garamond
-(fontspec)             Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: <->"EB
-(fontspec)             Garamond
-(fontspec)             Italic/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"EB
-(fontspec)             Garamond SemiBold
-(fontspec)             Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-(fontspec)             <->"EB Garamond SemiBold
-(fontspec)             Italic/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-
-LaTeX Info: Redefining \rmfamily on input line 22.
-
-Package fontspec Info: Font family 'EBGaramond(1)' created for font 'EB
-(fontspec)             Garamond' with options [BoldFont={EB Garamond
-(fontspec)             SemiBold},ItalicFont={EB Garamond
-(fontspec)             Italic},BoldItalicFont={EB Garamond SemiBold Italic}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"EB
-(fontspec)             Garamond/OT:script=latn;language=DFLT;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"EB
-(fontspec)             Garamond/OT:script=latn;language=DFLT;+smcp;"
-(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"EB Garamond
-(fontspec)             SemiBold/OT:script=latn;language=DFLT;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: <->"EB
-(fontspec)             Garamond SemiBold/OT:script=latn;language=DFLT;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"EB Garamond
-(fontspec)             Italic/OT:script=latn;language=DFLT;"
-(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: <->"EB
-(fontspec)             Garamond Italic/OT:script=latn;language=DFLT;+smcp;"
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"EB
-(fontspec)             Garamond SemiBold Italic/OT:script=latn;language=DFLT;"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-(fontspec)             <->"EB Garamond SemiBold
-(fontspec)             Italic/OT:script=latn;language=DFLT;+smcp;"
-
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/EBGaramond(1)/m/n on input line 22.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 22.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 22.
-
-Package fontspec Info: Could not resolve font "Asana Math/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'AsanaMath(0)' created for font 'Asana
-(fontspec)             Math' with options
-(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-
-Package fontspec Info: Could not resolve font "Asana Math/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'AsanaMath(1)' created for font 'Asana
-(fontspec)             Math' with options
-(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.65-},{Size=6.65-8.65,Font=Asana
-(fontspec)             Math,Style=MathScript},{Size=-6.65,Font=Asana
-(fontspec)             Math,Style=MathScriptScript}}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <8.65->"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;"<6.65-8.65>"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;+ssty=0;"<-6.65>"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;+ssty=1;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 23.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/AsanaMath(1)/m/n on input line 23.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 23.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/AsanaMath(1)/bx/n on input line 23.
-
-Package fontspec Info: Asana Math scale = 1.0001.
-
-
-Package fontspec Info: Could not resolve font "Asana Math/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Asana Math scale = 1.0001.
-
-
-Package fontspec Info: Asana Math scale = 1.0001.
-
-
-Package fontspec Info: Asana Math scale = 1.0001.
-
-
-Package fontspec Info: Font family 'AsanaMath(2)' created for font 'Asana
-(fontspec)             Math' with options
-(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.65-},{Size=6.65-8.65,Font=Asana
-(fontspec)             Math,Style=MathScript},{Size=-6.65,Font=Asana
-(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=1.0001,FontAdjustment={\fontdimen
-(fontspec)             8\font =7.25pt\relax \fontdimen 9\font =6.0pt\relax
-(fontspec)             \fontdimen 10\font =0.5pt\relax \fontdimen 11\font
-(fontspec)             =7.1pt\relax \fontdimen 12\font =5.0pt\relax \fontdimen
-(fontspec)             13\font =3.61pt\relax \fontdimen 14\font =3.61pt\relax
-(fontspec)             \fontdimen 15\font =2.96pt\relax \fontdimen 16\font
-(fontspec)             =2.1pt\relax \fontdimen 17\font =2.1pt\relax \fontdimen
-(fontspec)             18\font =2.3pt\relax \fontdimen 19\font =2.22pt\relax
-(fontspec)             \fontdimen 22\font =2.71pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.65->s*[1.0001]"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;"<6.65-8.65>s*[1.0001]"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;+ssty=0;"<-6.65>s*[1.0001]"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;+ssty=1;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =7.25pt\relax \fontdimen 9\font
-(fontspec)             =6.0pt\relax \fontdimen 10\font =0.5pt\relax \fontdimen
-(fontspec)             11\font =7.1pt\relax \fontdimen 12\font =5.0pt\relax
-(fontspec)             \fontdimen 13\font =3.61pt\relax \fontdimen 14\font
-(fontspec)             =3.61pt\relax \fontdimen 15\font =2.96pt\relax
-(fontspec)             \fontdimen 16\font =2.1pt\relax \fontdimen 17\font
-(fontspec)             =2.1pt\relax \fontdimen 18\font =2.3pt\relax \fontdimen
-(fontspec)             19\font =2.22pt\relax \fontdimen 22\font =2.71pt\relax
-(fontspec)             \fontdimen 20\font =0pt\relax \fontdimen 21\font
-(fontspec)             =0pt\relax 
-
-LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> TU/AsanaMath(2)/m/n on input line 23.
-LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> TU/AsanaMath(2)/bx/n on input line 23.
-
-Package fontspec Info: Asana Math scale = 0.9999.
-
-
-Package fontspec Info: Could not resolve font "Asana Math/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Asana Math scale = 0.9999.
-
-
-Package fontspec Info: Asana Math scale = 0.9999.
-
-
-Package fontspec Info: Asana Math scale = 0.9999.
-
-
-Package fontspec Info: Font family 'AsanaMath(3)' created for font 'Asana
-(fontspec)             Math' with options
-(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.65-},{Size=6.65-8.65,Font=Asana
-(fontspec)             Math,Style=MathScript},{Size=-6.65,Font=Asana
-(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=0.9999,FontAdjustment={\fontdimen
-(fontspec)             8\font =0.59pt\relax \fontdimen 9\font =1.11pt\relax
-(fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
-(fontspec)             =2.0pt\relax \fontdimen 12\font =6.0pt\relax \fontdimen
-(fontspec)             13\font =0pt\relax }].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.65->s*[0.9999]"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;"<6.65-8.65>s*[0.9999]"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;+ssty=0;"<-6.65>s*[0.9999]"Asana
-(fontspec)             Math/OT:script=math;language=DFLT;+ssty=1;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.59pt\relax \fontdimen 9\font
-(fontspec)             =1.11pt\relax \fontdimen 10\font =1.67pt\relax
-(fontspec)             \fontdimen 11\font =2.0pt\relax \fontdimen 12\font
-(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
-
-LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 23.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> TU/AsanaMath(3)/m/n on input line 23.
-LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 23.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> TU/AsanaMath(3)/bx/n on input line 23.
-)
-No file main.aux.
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 3.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 3.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 3.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 3.
-\AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring OFF on input line 3.
-(c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
- (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count302
-)
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
-\@outlinefile=\write3
-\openout3 = `main.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-) [1
-
-
-] [2
-
-]
-Chapter 1.
-[3] [4] [5] [6] [7] [8]
-Overfull \hbox (2.46552pt too wide) in paragraph at lines 5--5
-\TU/EBGaramond(0)/m/n/10 porttitor. Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer
- []
-
-
-Overfull \hbox (2.46552pt too wide) in paragraph at lines 5--5
-\TU/EBGaramond(0)/m/n/10 porttitor. Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer
- []
-
-[9] [10] [11]
-Overfull \hbox (2.46552pt too wide) in paragraph at lines 5--5
-\TU/EBGaramond(0)/m/n/10 porttitor. Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer
- []
-
-[12]
-Overfull \hbox (2.46552pt too wide) in paragraph at lines 5--5
-\TU/EBGaramond(0)/m/n/10 porttitor. Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer
- []
-
-[13] [14]
-Overfull \hbox (0.79454pt too wide) in paragraph at lines 5--5
-[]\TU/EBGaramond(0)/m/n/10 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam lobor-
- []
-
-[15]
-Overfull \hbox (1.20667pt too wide) in paragraph at lines 5--5
-[]\TU/EBGaramond(0)/m/n/10 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
- []
-
-
-Overfull \hbox (0.79454pt too wide) in paragraph at lines 5--5
-[]\TU/EBGaramond(0)/m/n/10 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam lobor-
- []
-
-[16]
-LaTeX Font Info:    Font shape `TU/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 5.
-LaTeX Font Info:    Font shape `TU/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 7.30078pt on input line 5.
-LaTeX Font Info:    Font shape `TU/AsanaMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 5.
-LaTeX Font Info:    Font shape `TU/AsanaMath(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 5.
-LaTeX Font Info:    Font shape `TU/AsanaMath(3)/m/n' will be
-(Font)              scaled to size 7.29921pt on input line 5.
-LaTeX Font Info:    Font shape `TU/AsanaMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 5.
- [17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6.
- [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 6.
- (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 
-(rerunfilecheck)             After:  C15BCA3C072CB072A400EFAB7B1CBFA1.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 6.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 25738 strings out of 492483
- 470962 string characters out of 6132858
- 729501 words of memory out of 5000000
- 30070 multiletter control sequences out of 15000+600000
- 534352 words of font info for 59 fonts, out of 8000000 for 9000
+ 15372 strings out of 492909
+ 325957 string characters out of 6132080
+ 401070 words of memory out of 5000000
+ 19370 multiletter control sequences out of 15000+600000
+ 532362 words of font info for 27 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 58i,12n,111p,356b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on main.pdf (18 pages).
+ 48i,0n,35p,833b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

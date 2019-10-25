@@ -1,29 +1,34 @@
 \documentclass{book}
 
-\usepackage{amsmath
-           ,amsthm
-           ,dirtytalk
-           ,xcolor
-           ,unicode-math
-           ,fancyhdr
-           ,fncychap
-           ,titlesec
-           ,hyperref}
-%\usepackage[english]{babel}
+\usepackage{ amsmath
+           , amsthm
+           , dirtytalk
+           , xcolor
+           , mathspec
+           , unicode-math
+           , fancyhdr
+           , fncychap
+           , titlesec
+           , hyperref}
 \usepackage{blindtext}
-\usepackage[no-math]{fontspec}
-%\usepackage{xeCJK}
 
 \blindmathtrue
-\setmainfont[
-    BoldFont={EB Garamond SemiBold},
-    ItalicFont={EB Garamond Italic},
-    BoldItalicFont={EB Garamond SemiBold Italic}]{EB Garamond}
-\setmathfont{Asana Math}
+\setmainfont[ BoldFont      = {EB Garamond SemiBold}
+            , ItalicFont    = {EB Garamond Italic}
+            , BoldItalicFont= {EB Garamond SemiBold}
+            ]                 {EB Garamond}
 
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{15pt}}
-\titleformat{\chapter}[hang]{\Huge\bfseries}{\colorbox{gray75}{\thechapter}\hsp}{0pt}{\Huge\bfseries}
+
+\def\Hugebf{\Huge\bfseries}
+
+\titleformat{\chapter}%
+  [hang]%
+  {\Hugebf}%
+  {\colorbox{gray75}{\thechapter}}%
+  {0pt}%
+  {\hspace*{\fill}\Hugebf}
 
 \pagestyle{fancy}
 \fancyhead[RO,LE]{\thepage}
