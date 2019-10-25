@@ -1,0 +1,32 @@
+\documentclass{book}
+
+\usepackage{amsmath
+           ,amsthm
+           ,dirtytalk
+           ,xcolor
+           ,unicode-math
+           ,fancyhdr
+           ,fncychap
+           ,titlesec
+           ,hyperref}
+%\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage[no-math]{fontspec}
+%\usepackage{xeCJK}
+
+\blindmathtrue
+\setmainfont[
+    BoldFont={EB Garamond SemiBold},
+    ItalicFont={EB Garamond Italic},
+    BoldItalicFont={EB Garamond SemiBold Italic}]{EB Garamond}
+\setmathfont{Asana Math}
+
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{15pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\colorbox{gray75}{\thechapter}\hsp}{0pt}{\Huge\bfseries}
+
+\pagestyle{fancy}
+\fancyhead[RO,LE]{\thepage}
+\fancyhead[RE]{\rightmark}
+\fancyhead[LO]{\leftmark}
+\fancyfoot{}
